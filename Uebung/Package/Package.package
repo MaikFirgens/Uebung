@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="1a3a9dc8-f1e0-457f-bc45-0f9b625f39c5" 
+        solutionId="1a3a9dc8-f1e0-457f-bc45-0f9b625f39c5" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Uebung"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="8001a102-361f-42f2-9038-9cd5b0603497" />
+  </features>
+</package>
